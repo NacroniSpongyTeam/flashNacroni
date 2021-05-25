@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Hello!
 
-You can use the [editor on GitHub](https://github.com/NacroniSpongyTeam/flashNacroni/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+These are all of the Flash (swf and fla) files I have that might need to be used with Ruffle or just as a backup.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Most of these are used for [my website](https://sites.google.com/view/nacroni).
 
-### Markdown
+### Files
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NacroniSpongyTeam/flashNacroni/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[buttin](https://nacronispongyteam.github.io/flashNacroni/buttin) (Back button for Nacroni Install/nacInstall's FLA files page)
